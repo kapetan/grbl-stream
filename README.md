@@ -1,6 +1,6 @@
 # grbl-stream
 
-Stream based [Grbl](https://github.com/gnea/grbl) command parser and serializer. Transport protocol independent. At the moment only supports a subset of commands.
+Stream based [Grbl](https://github.com/gnea/grbl) command parser and serializer. At the moment only supports a subset of commands. Tested with *Grbl* version *1.1f*.
 
     npm install grbl-stream
 
